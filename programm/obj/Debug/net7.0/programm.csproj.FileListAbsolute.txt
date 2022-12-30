@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Тест\programm\bin\Debug\net7.0\programm.exe
+C:\Users\USER\Documents\Тест\programm\bin\Debug\net7.0\programm.deps.json
+C:\Users\USER\Documents\Тест\programm\bin\Debug\net7.0\programm.runtimeconfig.json
+C:\Users\USER\Documents\Тест\programm\bin\Debug\net7.0\programm.dll
+C:\Users\USER\Documents\Тест\programm\bin\Debug\net7.0\programm.pdb
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.AssemblyInfo.cs
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.dll
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\refint\programm.dll
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.pdb
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\programm.genruntimeconfig.cache
+C:\Users\USER\Documents\Тест\programm\obj\Debug\net7.0\ref\programm.dll
